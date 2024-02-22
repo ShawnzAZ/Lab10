@@ -69,6 +69,8 @@ Part 1: Create a form with only JavaScript`)
 
 console.log(myForm)
 
+
+//11:25
 //Question: Besides changing the innerHTML, what other HTML things can we change using JavaScript?
 //Answer:
 
